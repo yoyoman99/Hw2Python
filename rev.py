@@ -3,5 +3,5 @@ def reverse_list(list):
     for i in range(len(list)-1,-1,-1):
         temp.append(list[i])
     return temp
-list = [1,4,37]
-print(reverse_list(list))
+list1 = [1,2]
+print(reverse_list(list1))
