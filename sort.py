@@ -15,5 +15,3 @@ def sort_dictionary(dict):
         del dict[min_person] 
 
     return list1           
-d = {"hieu":(123,19),"hai":(321,20)}
-print(sort_dictionary(d))
