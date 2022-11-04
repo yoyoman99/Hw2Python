@@ -1,0 +1,8 @@
+1.No
+2.Yes
+3. Since variable a is pointing to the integer, you can not change
+it in the function increment_int_a. However, variable b is a list and
+you can change the first element using increment_int_b. So you can not
+use this increment function to change a variable of an integer, but
+you can change the elements in a list that the variable is pointing
+to instead.
